@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StupidKotlinRoom</string>
+    <string name="capital">Capital: </string>
+    <string name="population">Population: </string>
+</resources>
